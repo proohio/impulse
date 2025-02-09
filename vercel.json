@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/gFhs2GWJxe",
+      "permanent": true
+    },
+    {
+      "source": "/proohio",
+      "destination": "https://proohio.click/",
+      "permanent": true
+    }
+  ]
+}
